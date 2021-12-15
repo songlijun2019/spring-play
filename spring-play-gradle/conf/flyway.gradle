@@ -1,0 +1,6 @@
+flyway {
+    driver='com.mysql.cj.jdbc.Driver'
+    url='jdbc:mysql://127.0.0.1:3306/spring_play?serverTimezone=GMT%2B8'
+    user='root'
+    password='123456'
+}
